@@ -1,0 +1,72 @@
+body {
+    font-family: "Red Hat Display";
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0eaea;
+}
+
+
+
+header {
+    background-color: #354424;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+
+main {
+    padding: 2em;
+    max-width: 800px;
+    margin: auto;
+}
+
+
+h2 {
+    color:#35424a
+}
+
+.project {
+    background-color: white;
+    margin-bottom: 2em;
+    padding: 1em;
+    border-radius: 0.5em;
+
+}
+
+.link {
+    color: white;
+    background-color: #354424;
+    padding: 0.3em;
+    border-radius: 0.5em;
+    position: relative;
+    right: -17em;
+}
+
+#second-img {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+
+.extra {
+    text-align: center;
+    background-color: #e6e9b9;
+    border-radius: 1em;
+    padding: 0.3em;   
+}
+
+
+
+
+
+
+footer {
+    background-color: #35424a;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: relative;
+    width: 100%;
+}
